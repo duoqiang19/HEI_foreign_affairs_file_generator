@@ -1,0 +1,9 @@
+/.idea/
+/build/
+/database/
+/dist/
+/templates/
+/code/__pycache__/
+/集团批件/
+/立项表/
+/请示文件/
