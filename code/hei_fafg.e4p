@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Project SYSTEM "Project-5.1.dtd">
+<!-- eric project file for project hei_fafg -->
+<!-- Saved: 2019-12-31, 16:34:05 -->
+<!-- Copyright (C) 2019 ,  -->
+<Project version="5.1">
+  <Language>en_US</Language>
+  <Hash>52e87257a5deb461a4a508896c7615e4e8f39476</Hash>
+  <ProgLanguage mixed="0">Python3</ProgLanguage>
+  <ProjectType>PyQt5</ProjectType>
+  <Version>0.1</Version>
+  <Author></Author>
+  <Email></Email>
+  <Eol index="0"/>
+  <Sources>
+    <Source>Ui_dialog_create_group.py</Source>
+    <Source>Ui_dialog_create_group_ctrl.py</Source>
+    <Source>Ui_mainwindow.py</Source>
+    <Source>Ui_mainwindow_ctrl.pyw</Source>
+    <Source>__init__.py</Source>
+    <Source>generate_ji_tuan_pi_jian.py</Source>
+    <Source>generate_li_xiang_biao.py</Source>
+    <Source>generate_qing_shi_wen_jian.py</Source>
+    <Source>handle_group_info.py</Source>
+    <Source>handle_staff_info.py</Source>
+    <Source>msg_box.py</Source>
+  </Sources>
+  <Forms>
+    <Form>dialog_create_group.ui</Form>
+    <Form>mainwindow.ui</Form>
+  </Forms>
+  <Vcs>
+    <VcsType>None</VcsType>
+  </Vcs>
+  <FiletypeAssociations>
+    <FiletypeAssociation pattern="*.e4p" type="OTHERS"/>
+    <FiletypeAssociation pattern="*.idl" type="INTERFACES"/>
+    <FiletypeAssociation pattern="*.md" type="OTHERS"/>
+    <FiletypeAssociation pattern="*.proto" type="PROTOCOLS"/>
+    <FiletypeAssociation pattern="*.py" type="SOURCES"/>
+    <FiletypeAssociation pattern="*.py3" type="SOURCES"/>
+    <FiletypeAssociation pattern="*.pyw" type="SOURCES"/>
+    <FiletypeAssociation pattern="*.pyw3" type="SOURCES"/>
+    <FiletypeAssociation pattern="*.qm" type="TRANSLATIONS"/>
+    <FiletypeAssociation pattern="*.qrc" type="RESOURCES"/>
+    <FiletypeAssociation pattern="*.rst" type="OTHERS"/>
+    <FiletypeAssociation pattern="*.ts" type="TRANSLATIONS"/>
+    <FiletypeAssociation pattern="*.txt" type="OTHERS"/>
+    <FiletypeAssociation pattern="*.ui" type="FORMS"/>
+    <FiletypeAssociation pattern="GNUmakefile" type="OTHERS"/>
+    <FiletypeAssociation pattern="Makefile" type="OTHERS"/>
+    <FiletypeAssociation pattern="README" type="OTHERS"/>
+    <FiletypeAssociation pattern="README.*" type="OTHERS"/>
+    <FiletypeAssociation pattern="makefile" type="OTHERS"/>
+  </FiletypeAssociations>
+</Project>

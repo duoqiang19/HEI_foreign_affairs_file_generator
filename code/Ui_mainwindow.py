@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-# Form implementation generated from reading ui file 'D:\nutstore\python_workspace\test_workspace\pyqt5_test\pyqt5_on_eric6\handle_group_info\mainwindow.ui'
+# Form implementation generated from reading ui file 'D:\GitHub\HEI_fafg\code\mainwindow.ui'
 #
 # Created by: PyQt5 UI code generator 5.11.3
 #
